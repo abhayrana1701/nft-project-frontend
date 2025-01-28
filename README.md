@@ -15,7 +15,7 @@ This is the frontend of the NFT Marketplace built with React, TypeScript, Vite, 
 
 Here is the Entity-Relationship Diagram (ERD) for the project:
 
-![ER Diagram](docs/entity-relationship-diagram.jpg)
+![ER Diagram](docs/Entity-relationship-diagram.jpg)
 
 ## Installation
 
